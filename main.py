@@ -11,6 +11,8 @@ def main():
 The state_class.py file has the methods for reading the csv file and storing the data in lists.
 I manually instantiated all of the states. Surely, there is a better way to do that, but this is my first time doing this.
 
+#data
+
 To make a plot use, state_name.plot(state_name.crime, 'Title', 'ylabel')
     '''
     United_States.plot(United_States.allViolent,'United States Violent Crimes', 'Violent crimes per 100,000')
